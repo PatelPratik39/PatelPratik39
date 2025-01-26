@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pratik Patel, a certified Full stack Developer
+- 👋 Hi, I’m Pratik Patel, a certified Full stack Developer, AWS AI Cloud Practitioner, AWS Cloud Practioner
 - 👀 I’m interested in Full Stack Develpment
-- 🌱 I’m currently learning Java, Spring Boot, MERN, Machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Full stack development roles
 - 📫 How to reach me "ptl.pratik717@gmail.com"
 
